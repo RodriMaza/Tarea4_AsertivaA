@@ -21,3 +21,7 @@ Nuestra propuesta busca organizar la comunicación de un equipo de desarrollo de
 - **Plan de Fallback:** Si la videollamada falla, el equipo migra al chat de texto. Si alguien se desconecta, el moderador envía un resumen escrito; si la reunión se cancela por completo, se pasa a un modelo de aportes asincrónicos.
 
 ---
+
+## 2. Link del video
+
+[Video Tarea #4](https://youtu.be/RtdbBDlb35k)
