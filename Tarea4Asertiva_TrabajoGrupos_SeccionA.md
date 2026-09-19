@@ -2,8 +2,8 @@
 
 ## Integrantes del Equipo
 
-1. Carlos Fernando de la Cruz Gómez (Presentador A)
-2. Carlos de la Cruz Herrera Mazariegos (Presentador B)
+1. Carlos Fernando de la Cruz Gómez 
+2. Wilvi Rodrigo Herrera Mazariegos
 
 ---
 
